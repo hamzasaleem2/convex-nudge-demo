@@ -188,13 +188,6 @@ function App() {
             }}>
               Convex Nudge Demo
             </h1>
-            <p style={{
-              fontSize: '1rem',
-              color: '#64748b',
-              margin: '0 auto 1.5rem',
-            }}>
-              A beautiful, customizable nudge component for React applications
-            </p>
 
             <div style={{
               display: 'flex',
